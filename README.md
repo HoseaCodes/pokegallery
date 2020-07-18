@@ -1,4 +1,4 @@
-# Pokègallert
+# Pokègallery
 –––––––––––––––––––––––
 User Stories for Pokègallery v1
 

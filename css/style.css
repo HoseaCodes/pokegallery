@@ -20,3 +20,8 @@ main{
     flex-grow: 1;
 
 }
+
+.secondary-content:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

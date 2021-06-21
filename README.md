@@ -42,6 +42,8 @@ Installtion steps:
 - Marerialize
 - JavaScript
 - jQuery
+- 3rd Party API
+  - [Pokemon API](https://pokeapi.co/docs/v2#pokemon-section)
 
 ## Future Enhancements
 

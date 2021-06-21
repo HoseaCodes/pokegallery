@@ -1,27 +1,33 @@
 .brand-logo {
-    font-family: 'Press Start 2P', cursive;
-    margin-left: 5px;
+  font-family: "Press Start 2P", cursive;
+  margin-left: 5px;
 }
 
 * {
-
-    box-sizing: border-box;
-    margin: 0;
+  box-sizing: border-box;
+  margin: 0;
 }
 body {
-    
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
-main{
-
-    flex-grow: 1;
-
+main {
+  flex-grow: 1;
 }
 
 .secondary-content:hover {
-    text-decoration: underline;
-    cursor: pointer;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#types {
+  display: flex;
+}
+
+#types p {
+  padding: 1%;
+  border-radius: 12%;
+  margin-right: 1%;
 }

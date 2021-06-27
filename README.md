@@ -50,6 +50,7 @@ Installtion steps:
 - A favorites feature to allow for users to make a collection of their favorite Pokémon
 - Showing more detail for each Pokémon
 - Larger sprite images and enhanced styling
+- Search and filter function
 
 ## Release History
 

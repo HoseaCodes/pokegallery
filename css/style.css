@@ -31,3 +31,11 @@ main {
   border-radius: 12%;
   margin-right: 1%;
 }
+
+.img-container {
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  text-align: center;
+}

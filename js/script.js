@@ -61,7 +61,8 @@ $(function(){
             $ulEl.html(html)
         } else {
             // produce the modal
-            $imgEl.attr('src', pokemonDetail.sprites.front_default);
+            // $imgEl.attr('src', pokemonDetail.sprites.front_default);
+            $imgEl.attr('src', `https://pokeres.bastionbot.org/images/pokemon/${pokemonDetail.id}.png`);
             $imgEl.attr('alt', pokemonDetail.name);
             $name.text(pokemonDetail.name);
             switch(pokemonDetail.types[0].type.name) {

@@ -1,0 +1,46 @@
+.photo {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 300px;
+  background: #f1f1f1;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 6px;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+figure {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin: 0;
+}
+
+figure img {
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+figure figcaption {
+  color: #333;
+  font-size: 16px;
+  font-family: "Verdana";
+}
+
+.photo-credit {
+  color: #333;
+  font-size: 8px;
+  font-style: italic;
+  font-family: "Verdana";
+}
+
+.photo-credit:before {
+  content: "Image Credit: ";
+}
+
+.collection {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+}

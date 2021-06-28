@@ -39,7 +39,7 @@ Installtion steps:
 
 - HTML
 - CSS
-- Marerialize
+- [Marerialize](https://materializecss.com/)
 - JavaScript
 - jQuery
 - 3rd Party API

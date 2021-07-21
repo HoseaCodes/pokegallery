@@ -39,8 +39,27 @@ main {
 
 .img-container {
   background-color: rgba(255, 255, 255, 0.6);
-  border-radius: 50%;
-  width: 120px;
-  height: 120px;
+  width: 85%;
+  height: 40%;
+  object-fit: cover;
   text-align: center;
+  border: 5px solid gold;
+  padding: 14%;
+  margin: 0 10% 10% 8%;
+}
+
+#modal1 {
+  width: 40vw;
+  border: 20px solid gold;
+  border-radius: 2%;
+}
+
+.modal-content {
+  height: 80vh;
+}
+
+#name {
+  margin-left: 10%;
+  text-transform: capitalize;
+  font-weight: 700;
 }
